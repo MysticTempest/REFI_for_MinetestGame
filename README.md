@@ -1,3 +1,4 @@
+![minetest_game completion](https://minetest-checker.herokuapp.com/game/MysticTempest/REFI_for_MinetestGame.svg)
 ------------------------------
 REFI_Textures:
 ------------------------------
