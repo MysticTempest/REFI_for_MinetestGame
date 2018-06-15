@@ -8,8 +8,10 @@ This version of the REFI_Texture pack is for Minetest Game.
 
 
 
+Note: This repo is now repurposed as a public-facing backup.
 
 =================================
+
 LICENSE:
 
     * Author: MysticTempest
